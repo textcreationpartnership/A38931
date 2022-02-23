@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact list of the names of every commander of the severall regiments of this honourable city of London as they were chosen by the committee apoynted for the militia of the said citie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38931</idno>
+            <idno type="STC">Wing E3659</idno>
+            <idno type="STC">ESTC R41144</idno>
+            <idno type="EEBO-CITATION">19639629</idno>
+            <idno type="OCLC">ocm 19639629</idno>
+            <idno type="VID">109261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:67)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact list of the names of every commander of the severall regiments of this honourable city of London as they were chosen by the committee apoynted for the militia of the said citie.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>For Henry Overton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History, Military.</term>
+               <term>Great Britain --  History, Military --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:109261:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>AN EXACT LIST OF THE NAMES OF EVERY COMMANDER OF THE SEVERALL REGIMENTS OF THIS Honourable City of <hi>London.</hi>
+            </head>
+            <head type="sub">As they were choſen by the Committee apoynted for the <hi>Militia</hi> of the ſaid <hi>Citie.</hi>
+            </head>
+            <list>
+               <head>Firſt REGIMENT <hi>Redde.</hi>
+               </head>
+               <item>COllonell <hi>Atkins.</hi>
+               </item>
+               <item>Lievtenant Coll. <hi>Rowden.</hi>
+               </item>
+               <item>Serjeant Major <hi>Manwaring.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>1 Captaine <hi>Bunce.</hi>
+                     </item>
+                     <item>2 Captaine <hi>Tucker.</hi>
+                     </item>
+                     <item>3 Captaine <hi>Tompſon.</hi>
+                     </item>
+                     <item>4 Captaine <hi>Hooker.</hi>
+                     </item>
+                     <item>5 Collonel Captain <hi>Gawthorn.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The Second Regiment <hi>White.</hi>
+               </head>
+               <item>Collonell <hi>Fennington.</hi>
+               </item>
+               <item>Lievtenant Collon. <hi>Langham.</hi>
+               </item>
+               <item>Serjeant Major <hi>Davis.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>1 Captaine <hi>Chamberlin.</hi>
+                     </item>
+                     <item>2 Cap. <hi>Player.</hi>
+                     </item>
+                     <item>3 Cap. <hi>Harvie.</hi>
+                     </item>
+                     <item>4 Cap. <hi>Whitchcott.</hi>
+                     </item>
+                     <item>5 Collonell Captaine <hi>Goodday.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The Third Regiment <hi>Yellow.</hi>
+               </head>
+               <item>Collonell <hi>Wollaſton.</hi>
+               </item>
+               <item>Lievtenant Collonell <hi>Venne.</hi>
+               </item>
+               <item>Serjeant Major <hi>Geere,</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>1 Captaine <hi>Turner.</hi>
+                     </item>
+                     <item>2 Cap. <hi>Hrriſon.</hi>
+                     </item>
+                     <item>3 Cap. <hi>Cutbert.</hi>
+                     </item>
+                     <item>4 Cap. <hi>Tichborne.</hi>
+                     </item>
+                     <item>5 Collonell Captaine <hi>Barriffe.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The Fourth Regiment <hi>Blew.</hi>
+               </head>
+               <item>Collonell <hi>Addams.</hi>
+               </item>
+               <item>Lievten. Col. <hi>Edmund Foſter.</hi>
+               </item>
+               <item>Serjeant Major <hi>Carleton.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>1 Captaine <hi>Weſt.</hi>
+                     </item>
+                     <item>2 Cap. <hi>Blackwell.</hi>
+                     </item>
+                     <item>3 Cap. <hi>Hackete.</hi>
+                     </item>
+                     <item>4 Cap. <hi>
+                           <g ref="char:V">Ʋ</g>nderwood.</hi>
+                     </item>
+                     <item>5 Collonell Captaine <hi>Bellamie.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The Fift Regiment <hi>Greene.</hi>
+               </head>
+               <item>Collonell <hi>Warner.</hi>
+               </item>
+               <item>Lievtena. Col. <hi>Mathew Foſter.</hi>
+               </item>
+               <item>Serjeant Major <hi>Owen Rowe.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>1 Captaine <hi>Shepheard.</hi>
+                     </item>
+                     <item>2 Cap. <hi>Francis Rowe.</hi>
+                     </item>
+                     <item>3 Cap. <hi>Robert Manwaring.</hi>
+                     </item>
+                     <item>5 Collonell Captaine <hi>Hawes.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The Sixt Regiment <hi>Orange.</hi>
+               </head>
+               <item>Collonell <hi>Towſe.</hi>
+               </item>
+               <item>Lievtenant Collonell <hi>Wilſon.</hi>
+               </item>
+               <item>Serjeant Major <hi>Buxton.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>1 Captaine <hi>Browne.</hi>
+                     </item>
+                     <item>2 Cap. <hi>Camfield.</hi>
+                     </item>
+                     <item>3 Cap. <hi>Gower.</hi>
+                     </item>
+                     <item>5 Collonel Captaine <hi>Wollaſton.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The names of the <hi>Captaines,</hi> as they take their places.</head>
+               <item>CAp. <hi>Rowden.</hi>
+               </item>
+               <item>Cap. <hi>Langham.</hi>
+               </item>
+               <item>Cap. <hi>Venn.</hi>
+               </item>
+               <item>Cap. <hi>Edmund Foſter.</hi>
+               </item>
+               <item>Cap. <hi>Geere.</hi>
+               </item>
+               <item>Cap. <hi>Carleton.</hi>
+               </item>
+               <item>Cap. <hi>Manwaring.</hi>
+               </item>
+               <item>Cap. <hi>Davis.</hi>
+               </item>
+               <item>Cap. <hi>Mathew Foſter.</hi>
+               </item>
+               <item>Cap. <hi>VVilſon.</hi>
+               </item>
+               <item>Cap. <hi>Bunch.</hi>
+               </item>
+               <item>Cap. <hi>Chamberlaine.</hi>
+               </item>
+               <item>Cap. <hi>Burton.</hi>
+               </item>
+               <item>Cap. <hi>Weſt.</hi>
+               </item>
+               <item>Cap. <hi>Owen Row.</hi>
+               </item>
+               <item>Cap. <hi>Tucker.</hi>
+               </item>
+               <item>Cap. <hi>Tompſon.</hi>
+               </item>
+               <item>Cap. <hi>Shepheard.</hi>
+               </item>
+               <item>Cap. <hi>Hooker.</hi>
+               </item>
+               <item>Cap. <hi>Browne.</hi>
+               </item>
+               <item>Cap. <hi>Player.</hi>
+               </item>
+               <item>Cap. <hi>Turner.</hi>
+               </item>
+               <item>Cap. <hi>Blackewell.</hi>
+               </item>
+               <item>Cap. <hi>Francis Roe.</hi>
+               </item>
+               <item>Cap. <hi>Harriſon.</hi>
+               </item>
+               <item>Cap. <hi>Cutbert.</hi>
+               </item>
+               <item>Cap. <hi>Hacket.</hi>
+               </item>
+               <item>Cap. <hi>Harvie.</hi>
+               </item>
+               <item>Cap. <hi>Vnderwood.</hi>
+               </item>
+               <item>Cap. <hi>Whitchcott.</hi>
+               </item>
+               <item>Cap. <hi>Tichborne.</hi>
+               </item>
+               <item>Cap. <hi>Camfield.</hi>
+               </item>
+               <item>Cap. <hi>Robert Manwaring.</hi>
+               </item>
+               <item>Cap. <hi>Gower.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Collonells Captaines in their Order.</head>
+               <item>Cap. <hi>Gauthorn.</hi>
+               </item>
+               <item>Cap. <hi>Goodday.</hi>
+               </item>
+               <item>Cap. <hi>Barriffe.</hi>
+               </item>
+               <item>Cap. <hi>Bellamie.</hi>
+               </item>
+               <item>Cap. <hi>Hawes.</hi>
+               </item>
+               <item>Cap. <hi>Wollaston<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at <hi>London</hi> for <hi>Henry Overton.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
